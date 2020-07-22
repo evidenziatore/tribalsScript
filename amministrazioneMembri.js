@@ -1,7 +1,5 @@
 ﻿javascript:
 
-(function() {
-
 console.log('aaaaaaaaaaaaaaaaa');
 
 if (window.location.href.indexOf('&screen=ally&mode=members') < 0 || window.location.href.indexOf('&screen=ally&mode=members_troops') > -1) {
@@ -509,4 +507,4 @@ function displayEverything() {
 
     $("#contentContainer").prepend(html);
     makeThingsCollapsible();
-})();
+}
