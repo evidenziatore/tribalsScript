@@ -1,4 +1,4 @@
-javascript:
+﻿javascript:
 
 console.log('aaaaaaaaaaaaaaaaa');
 
